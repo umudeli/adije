@@ -1,0 +1,2 @@
+# adije
+adije static pages
